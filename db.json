@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "name": "My first news",
+      "description": "How many processes should run at once Exact number or a percent of CPUs available (for example 50%). New processes only spawn after all restart tries of process.",
+      "category": "Hot News"
+    },
+    {
+      "id": 2,
+      "name": "Footbal news",
+      "description": "How many processes should run at once Exact number or a percent of CPUs available (for example 50%). New processes only spawn after all restart tries of process.",
+      "category": "Sport News"
+    },
+    {
+      "id": 3,
+      "name": "Xavi was train barcelona",
+      "description": "How many processes should run at once Exact number or a percent of CPUs available (for example 50%). New processes only spawn after all restart tries of process.",
+      "category": "Sport News"
+    },
+    {
+      "id": 4,
+      "name": "In the world was hot nature",
+      "description": "How many processes should run at once Exact number or a percent of CPUs available (for example 50%). New processes only spawn after all restart tries of process.",
+      "category": "World News"
+    }
+  ],
+  "filters": [
+    "all",
+    "hot",
+    "sport",
+    "world"
+  ]
+}
