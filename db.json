@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": "4c4e3d84-6059-4cf5-b6b0-8c32ad3e268b",
+      "name": "My first news",
+      "description": "This can lead to unnecessary rerenders. Selectors that return the entire state are almost certainly a mistake, as they will cause a rerender whenever *anything* in state changes",
+      "category": "World News"
+    },
+    {
+      "id": "2a5f3bfe-a283-40b0-9ef0-bff2d861d814",
+      "name": "My first news",
+      "description": "This can lead to unnecessary rerenders. Selectors that return the entire state are almost certainly a mistake, as they will cause a rerender whenever *anything* in state changes",
+      "category": "Sport News"
+    },
+    {
+      "id": "6ffca100-bff9-4998-918c-08f9a1532aa0",
+      "name": "My first news",
+      "description": "This can lead to unnecessary rerenders. Selectors that return the entire state are almost certainly a mistake, as they will cause a rerender whenever *anything* in state changes",
+      "category": "Hot News"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "World News",
+      "label": "World News",
+      "className": "btn-success"
+    }
+  ]
+}
